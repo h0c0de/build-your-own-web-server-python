@@ -30,7 +30,7 @@ Satu build dihitung selesai hanya bila:
 - [x] Bagian 2 — WSGI, selesai & terverifikasi 15 Nov 2026 (lihat CATATAN.md)
 - [x] Bagian 3 — Konkurensi, selesai & terverifikasi 15 Nov 2026 (lihat CATATAN.md)
 
-**Build tuntas secara materi 15 Nov 2026** — 3/3 bagian jalan dan terbukti dengan uji nyata, catatan lengkap. Satu sisa pagar administratif: folder ini belum diterbitkan sebagai repo GitHub tersendiri.
+**Build tuntas penuh 15 Nov 2026** — 3/3 bagian jalan dan terbukti dengan uji nyata, catatan lengkap, dan hasil diterbitkan sebagai repo publik: https://github.com/h0c0de/build-your-own-web-server-python (commit snapshot pertama `b515ce9`).
 
 ## Cara menjalankan Bagian 1
 

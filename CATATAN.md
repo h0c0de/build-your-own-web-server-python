@@ -61,4 +61,4 @@ Satu bagian = satu halaman. Ditulis sesudah uji nyata, bukan sesudah membaca.
 - Antrean iteratif terukur persis seperti teori (5 vs 10 detik) — dan koneksi kedua sebenarnya sudah *terhubung* oleh kernel (backlog `listen`), hanya tidak dilayani. "Terhubung" ≠ "dilayani".
 - Zombie bukan konsep buku: tiga baris `Z` di `ps` muncul dari server yang baru saja kami jalankan sendiri.
 
-**Status build:** 3/3 bagian selesai dan terverifikasi; catatan lengkap. Sisa pagar administratif: hasil ini masih folder lokal — belum jadi repo GitHub tersendiri.
+**Status build:** 3/3 bagian selesai dan terverifikasi; catatan lengkap. Diterbitkan 15 Nov 2026 sebagai repo publik https://github.com/h0c0de/build-your-own-web-server-python — pagar selesai terpenuhi seluruhnya.
